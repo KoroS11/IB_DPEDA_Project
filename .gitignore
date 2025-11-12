@@ -1,0 +1,10 @@
+# Jupyter / Python ignores
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+.DS_Store
+.env
+.vscode/
+.idea/
